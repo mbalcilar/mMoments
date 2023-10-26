@@ -1,2 +1,2 @@
 # mMoments
-Miscellaneous moments function, particularly measures of skewness and kurtosis
+Miscellaneous moments functions, particularly measures of skewness and kurtosis
